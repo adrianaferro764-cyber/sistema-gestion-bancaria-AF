@@ -1,0 +1,37 @@
+{
+  "oficinaPrincipal": {
+    "nombre": "Oficina BBVA La Dorada – Caldas",
+    "departamento": "Caldas",
+    "municipio": "La Dorada",
+    "direccion": "Calle 14 # 3-25, Centro, La Dorada, Caldas",
+    "horario": "Lunes a Viernes de 8:00 a.m. a 11:30 a.m. y de 2:00 p.m. a 4:30 p.m.",
+    "servicios": [
+      "Asesoría comercial personalizada",
+      "Simulación y radicación de créditos de vivienda, vehículo y libre inversión",
+      "Apertura de CDT físico y digital",
+      "Cajas y transacciones en ventanilla"
+    ]
+  },
+  "lineasAtencion": [
+    {
+      "nombre": "Línea Nacional Gratuita BBVA",
+      "numero": "01 8000 912 227",
+      "descripcion": "Atención 24 horas al día, 7 días a la semana"
+    },
+    {
+      "nombre": "Línea Bogotá y Líneas Regionales",
+      "numero": "(601) 307 8068",
+      "descripcion": "Asistencia telefónica especializada para productos financieros"
+    }
+  ],
+  "canalesDigitales": [
+    {
+      "nombre": "BBVA Móvil (App)",
+      "descripcion": "Disponible en App Store, Google Play y AppGallery para realizar transacciones y aperturas 100% digitales."
+    },
+    {
+      "nombre": "Portal Web BBVA Colombia",
+      "descripcion": "Acceso seguro a través de bbva.com.co para gestión de cuentas, consultas y pagos."
+    }
+  ]
+}

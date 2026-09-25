@@ -1,0 +1,95 @@
+[
+  {
+    "id": "vivienda",
+    "nombre": "Crédito de Vivienda",
+    "categoria": "credito",
+    "icono": "Home",
+    "descripcion": "Financiación para adquirir vivienda.",
+    "descripcionDetallada": "Haz realidad el sueño de tener vivienda propia, ya sea nueva o usada. Contamos con plazos flexibles y tasas de interés preferenciales para proyectos VIS y No VIS.",
+    "tasaEA": 14.5,
+    "plazosMeses": [60, 72, 84, 96, 120, 180, 240],
+    "plazoDefault": 120,
+    "montoMinimo": 20000000,
+    "montoMaximo": 800000000,
+    "montoDefault": 50000000,
+    "beneficios": [
+      "Financiación hasta del 70% o 80% del valor del inmueble",
+      "Plazos de hasta 20 años",
+      "Abonos extraordinarios a capital sin penalidad"
+    ]
+  },
+  {
+    "id": "libre-inversion",
+    "nombre": "Libre Inversión",
+    "categoria": "credito",
+    "icono": "BadgeDollarSign",
+    "descripcion": "Financiación para diferentes necesidades personales.",
+    "descripcionDetallada": "Solución de crédito de libre destinación para viajes, estudios, remodelación o consolidación de pasivos sin necesidad de justificar el uso de los fondos.",
+    "tasaEA": 18.2,
+    "plazosMeses": [12, 24, 36, 48, 60, 72],
+    "plazoDefault": 48,
+    "montoMinimo": 1000000,
+    "montoMaximo": 120000000,
+    "montoDefault": 20000000,
+    "beneficios": [
+      "Desembolso ágil sin trámites complejos",
+      "Tasa fija durante toda la vigencia del crédito",
+      "Posibilidad de débito automático de tu cuenta BBVA"
+    ]
+  },
+  {
+    "id": "vehiculo",
+    "nombre": "Crédito de Vehículo",
+    "categoria": "credito",
+    "icono": "Car",
+    "descripcion": "Alternativa de financiación para adquirir vehículo.",
+    "descripcionDetallada": "Financia tu vehículo particular nuevo o usado de forma rápida y sencilla con condiciones competitivas en el mercado.",
+    "tasaEA": 16.0,
+    "plazosMeses": [12, 24, 36, 48, 60, 72, 84],
+    "plazoDefault": 60,
+    "montoMinimo": 5000000,
+    "montoMaximo": 250000000,
+    "montoDefault": 35000000,
+    "beneficios": [
+      "Financiación para vehículos particulares nuevos o usados",
+      "Aprobación rápida en canales digitales",
+      "Póliza de seguro con cobertura integral"
+    ]
+  },
+  {
+    "id": "cdt",
+    "nombre": "CDT",
+    "categoria": "inversion",
+    "icono": "TrendingUp",
+    "descripcion": "Inversión a un plazo determinado con rentabilidad.",
+    "descripcionDetallada": "El Certificado de Depósito a Término (CDT) de BBVA te permite rentabilizar tu dinero con seguridad total respaldada por Fogafín, a tasas garantizadas.",
+    "tasaEA": 10.5,
+    "plazosDias": [90, 180, 270, 360, 540, 720],
+    "plazoDefaultDias": 360,
+    "montoMinimo": 500000,
+    "montoMaximo": 1000000000,
+    "montoDefault": 5000000,
+    "beneficios": [
+      "Apertura 100% digital desde $500.000",
+      "Rentabilidad fija asegurada durante el período elegido",
+      "Protección por el seguro de depósito Fogafín"
+    ]
+  },
+  {
+    "id": "cuenta-ahorros",
+    "nombre": "Cuenta de Ahorros",
+    "categoria": "ahorro",
+    "icono": "CreditCard",
+    "descripcion": "Producto para administrar y ahorrar dinero.",
+    "descripcionDetallada": "Maneja tus finanzas diarias, recibe pagos y transferencias sin costo a través de los canales digitales de BBVA con disponibilidad inmediata de tus recursos.",
+    "tasaEA": 3.5,
+    "montoMinimo": 0,
+    "montoMaximo": 0,
+    "montoDefault": 0,
+    "beneficios": [
+      "Cero cuota de manejo contratando vía digital",
+      "Transferencias gratuitas inmediatas vía Transfiya",
+      "Acceso a la red de cajeros automáticos BBVA en toda Colombia"
+    ]
+  }
+]
